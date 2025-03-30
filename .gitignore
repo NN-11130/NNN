@@ -1,0 +1,10 @@
+# Windows 系统文件 
+AppData/ 
+Local Settings/ 
+Application Data/ 
+Cookies/ 
+Documents/My Music/ 
+Documents/My Pictures/ 
+Documents/My Videos/ 
+Temp/ 
+*.tmp 
